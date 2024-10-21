@@ -38,11 +38,11 @@ p
 
 .top-container {background-color: #E4F9F5;}
 
-.middle-container {padding: 20px; background-color: #aae8d6;}
+.middle-container {padding: 20px; background-color: #42af8f; color:#E4F9F5;}
 
-.bottom-container {padding: 20px; background-color:#b1e0ba;}
+.bottom-container {padding: 20px; background-color:#b1e0ba; color: #044935;}
 
-.footer-container {padding: 20px; background-color:#5acbab;}
+.footer-container {padding: 20px; background-color:#5acbab; color: #E4F9F5;}
 
 img {display: inline-block;}
 
