@@ -51,6 +51,11 @@ p
     color: #42af8f;
 }
 
+a
+{
+    color: transparent;
+}
+
 .top-container {background-color: #E4F9F5; width: 100%; padding: 10px;}
 
 .middle-container {padding: 20px; background-color: #58ae95; color:#E4F9F5; width: 100%; height: auto ;padding: 10px;}
